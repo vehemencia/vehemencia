@@ -1,4 +1,11 @@
 <h1 align='center'>Hola, soy Fernanda</h1>
+<h3 align='center'>Me gustan las computadoras y el arte</h1>
+
+Soy una desarrolladora front-end con una Licenciatura en Lenguas y Literaturas Hispánicas, con gran interés en la forma en la que el código y el lenguaje nos permiten relacionarnos con el mundo que nos rodea.
+
+---
+<h1 align='center'>Hello, my name is Fernanda</h1>
+<h3 align='center'>I like computers and art</h1>
 
 <!--
 **vehemencia/vehemencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
